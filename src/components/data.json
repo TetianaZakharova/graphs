@@ -1,0 +1,50 @@
+{
+  "users": [
+    {"name": "Online", "value": 28},
+    {"name": "Offline", "value": 18}
+  ],
+  "connectors": [
+    {"name": "Online", "value": 12},
+    {"name": "Offline", "value": 25}
+  ],
+  "colors": 
+    ["#86bc25", "#bbbbbb"],
+
+  "dataUsage" :[
+    {"date": "2021-12-06", "value": 15},
+    {"date": "2021-12-07", "value": 10},
+    {"date": "2021-12-08", "value": 100},
+    {"date": "2021-12-09", "value": 125},
+    {"date": "2021-12-10", "value": 100},
+    {"date": "2021-12-11", "value": 135},
+    {"date": "2021-12-12", "value": 10},
+    {"date": "2021-12-13", "value": 45},
+    {"date": "2021-12-14", "value": 60}
+  ],
+
+  "dataUsageMultiLines" :[
+    {"date": "2021-12-06", "Download": 15, "Upload": 90},
+    {"date": "2021-12-07", "Download": 10, "Upload": 50},
+    {"date": "2021-12-08", "Download": 100, "Upload": 10},
+    {"date": "2021-12-09", "Download": 125, "Upload": 70},
+    {"date": "2021-12-10", "Download": 200, "Upload": 115},
+    {"date": "2021-12-11", "Download": 135, "Upload": 80},
+    {"date": "2021-12-12", "Download": 10, "Upload": 25},
+    {"date": "2021-12-13", "Download": 45, "Upload": 100},
+    {"date": "2021-12-14", "Download": 60, "Upload": 50}
+  ],
+  
+  "topApps" :[
+    {"name": "Play", "value": 255000},
+    {"name": "Google", "value": 285000},
+    {"name": "Iteliganti", "value": 21977},
+    {"name": "ghb", "value": 37000989},
+    {"name": "GraphML", "value": 55519},
+    {"name": "DataUtil", "value": 76246},
+    {"name": "RootScale", "value": 206094},
+    {"name": "Sphere", "value": 1345200},
+    {"name": "Vizualization", "value": 10000000
+    },
+    {"name": "Online", "value": 87680}
+  ]
+}
