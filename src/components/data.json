@@ -43,8 +43,30 @@
     {"name": "DataUtil", "value": 76246},
     {"name": "RootScale", "value": 206094},
     {"name": "Sphere", "value": 1345200},
-    {"name": "Vizualization", "value": 10000000
-    },
+    {"name": "Vizualization", "value": 10000000},
     {"name": "Online", "value": 87680}
+  ],
+
+  "dataTree" :[
+    {
+      "name": "dewnew",
+      "children": [
+        { 
+          "name": "Kudelia Serhii",
+          "children": [
+            { 
+              "name": "Kudelia Igor",
+              "children" :[
+                {"name":  "GraphML 255000"},
+                {"name":  "RootScale 21977"}, 
+                {"name":  "Sphere 76246"},  
+                {"name":  "Vizualization 206094"},  
+                {"name":  "Google Play 1345200"},  
+                {"name":  "MergeEdge 87680"}             ]
+            }
+          ]
+        }
+      ]
+    }
   ]
 }
